@@ -1,8 +1,8 @@
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
 
-# 🪐 spaCy Project: Improving the quality of museums data
+# 🪐 spaCy Project: Depo Classification Automatization via ML
 
-Object-labeling solution to improve Estonian museum information system.
+Automatic classification of transactions to quicken workflow and significant cashflow transaction closings.
 
 ## 📋 project.yml
 
