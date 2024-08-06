@@ -1,5 +1,5 @@
 spacy-streamlit>=1.0.0a0
-streamlit
+streamlit==1.36.0
 pandas
 unidecode
 numpy==1.26.4
